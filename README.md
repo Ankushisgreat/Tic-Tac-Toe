@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic tac toe game using javascript
+Tic tac toe game using html,css,javascript
